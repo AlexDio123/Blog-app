@@ -102,8 +102,8 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER= 'enter_your_email'
-EMAIL_HOST_PASSWORD= 'Enter_your_password'
+EMAIL_HOST_USER= 'alexdionicio934@gmail.com'
+EMAIL_HOST_PASSWORD= 'Diamante$1'
 EMAIL_PORT= 587
 EMAIL_USE_TLS= True
 
