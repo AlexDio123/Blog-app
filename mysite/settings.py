@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'blog.apps.BlogConfig',
+    'taggit',
 ]
 
 MIDDLEWARE = [
@@ -102,8 +103,8 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER= 'alexdionicio934@gmail.com'
-EMAIL_HOST_PASSWORD= 'Diamante$1'
+EMAIL_HOST_USER= 'add_your_email'
+EMAIL_HOST_PASSWORD= 'add_your_pass'
 EMAIL_PORT= 587
 EMAIL_USE_TLS= True
 
