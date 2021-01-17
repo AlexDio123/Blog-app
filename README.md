@@ -2,7 +2,7 @@
 Blog web application created using the django framework following the book _"Django 3 by Example"_ from author **Antonio Melé**
 
 
-#Description
+# Description
 
 This Blog application has many features to name a few:
 
@@ -16,6 +16,6 @@ This Blog application has many features to name a few:
 -Recomendations by similarity
 
 
-#Intstallation
+# Intstallation
  
  This application uses **postgreSQL** so make sure to have that installed
