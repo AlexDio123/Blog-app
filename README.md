@@ -15,9 +15,9 @@ This Blog application has many features to name a few:
 - Tags
 - Recomendations by similarity
 
-_In order for some features like *Email Sharing* and *Search engine* to work, you will need to modify the *settings.py* file and update the email and database credentials with your own_
+_In order for some features like **Email Sharing** and **Search engine** to work, you will need to modify the *settings.py* file and update the email and database credentials with your own_
 
-# Intallation
+# Installation
  
  This application uses **postgreSQL** features and power to run the application so make sure to have it installed. You can download it here [postgres.com](https://www.postgresql.org/download/). 
  
@@ -25,5 +25,5 @@ _In order for some features like *Email Sharing* and *Search engine* to work, yo
  
  * pip install requirements.txt
  
- once you have all that setup you can run the command *_python manage.py runserver_* and use the app!
+ once you have all that setup you can run the command **_python manage.py runserver_** and use the app!
 
