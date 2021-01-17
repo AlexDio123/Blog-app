@@ -6,14 +6,14 @@ Blog web application created using the django framework following the book _"Dja
 
 This Blog application has many features to name a few:
 
--Creating Posts
--Sharing post through email
--comments on each post
--markdown support for the post and the comments
--sitemap
--search engine
--Tags
--Recomendations by similarity
+- Creating Posts
+- Sharing post through email
+- comments on each post
+- markdown support for the post and the comments
+- sitemap
+- search engine
+- Tags
+- Recomendations by similarity
 
 
 # Intstallation
